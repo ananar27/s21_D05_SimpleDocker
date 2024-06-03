@@ -44,7 +44,7 @@
 [image-id-44]: img/part6-6.png
 [image-id-45]: img/part6-7.png
 
-# Report by raffordg
+# Report by ananar27
    
 ## Part 1. Готовый докер
 
